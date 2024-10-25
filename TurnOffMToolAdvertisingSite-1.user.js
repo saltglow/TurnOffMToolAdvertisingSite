@@ -4,7 +4,7 @@
 // @name:zh-TW   关闭MTool广告网站
 // @name:en      TurnOffMToolAdvertisingSite
 // @namespace    http://tampermonkey.net/
-// @version      1
+// @version      v1.0.0
 // @description  Try closing the specific website tab, MTool is a good script, but every time I start it jumps to his suffocating URL 😀, I can't stand the time wasted by closing the URL, I'm sorry I had to manipulate you
 // @description:zh-CN  尝试关闭指定的网站标签页,MTool是个很好的脚本,但是每次启动都会跳转到他那令人窒息的网址😀,我忍受不了被关闭网址浪费的时间了,对不起不得不操控你了
 // @description:zh-TW  尝试关闭指定的网站标签页,MTool是个很好的脚本,但是每次启动都会跳转到他那令人窒息的网址😀,我忍受不了被关闭网址浪费的时间了,对不起不得不操控你了
